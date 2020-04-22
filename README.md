@@ -1,4 +1,4 @@
-# Spring Security + Thymeleaf + H2 DB + JPA
+# DEMO: Spring Security + Thymeleaf + H2 DB + JPA
 This project demonstartes secure web application using Spring Security.
 
 ## Running the Application
