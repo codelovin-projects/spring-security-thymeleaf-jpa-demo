@@ -12,6 +12,6 @@ Use the below login credentials:
     Password: password
 ```
 
-You will see following output on the screen.
+You will see the below output on the screen.
 
 ![Output](https://github.com/codelovin-projects/spring-security-thymeleaf-jpa-demo/blob/master/src/main/resources/static/images/output.JPG)
